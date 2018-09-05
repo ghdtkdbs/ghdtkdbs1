@@ -1,4 +1,4 @@
-<? include $_SERVER["DOCUMENT_ROOT"]."/renew/include/header.php" ?>
+﻿<? include $_SERVER["DOCUMENT_ROOT"]."/renew/include/header.php" ?>
 
     <!-- 바디 컨테이너 -->
     <div id="content" class="container">
@@ -17,9 +17,9 @@
                 <p class="en">Your creative partner</p>
             </div>
             <ul class="mainvisual">
-            	<li><a href="http://softeleven.cafe24.com/renew/software.php#microsoft"><img src="images/main/main_sol01.png" alt="Microsoft"></a></li>
-                <li><a href="http://softeleven.cafe24.com/renew/software.php#adobe"><img src="images/main/main_sol02.png" alt="Adobe"></a></li>
-                <li><a href="http://softeleven.cafe24.com/renew/software.php#hancom"><img src="images/main/main_sol03.png" alt="한글과컴퓨터"></a></li>
+            	<li><a href="renew/software.php#microsoft"><img src="images/main/main_sol01.png" alt="Microsoft"></a></li>
+                <li><a href="renew/software.php#adobe"><img src="images/main/main_sol02.png" alt="Adobe"></a></li>
+                <li><a href="renew/software.php#hancom"><img src="images/main/main_sol03.png" alt="한글과컴퓨터"></a></li>
             </ul>	
         </div>
         
